@@ -1,13 +1,4 @@
 
-/* .top{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 40pX;
-    border: 2pX solid red;
-    margin: 0 auto;
-} */
-
 .top-line{
     width: 1200pX;
     display: flex;
@@ -52,16 +43,7 @@
     background-image: url(images/Circle\ design.svg);
     margin-right: 40pX;
     }
-.logo{
-    /* height: 100pX;
-    margin-top: 20px;
-    border: 2pX solid red;
-    display: flex;
-    justify-content: space-around;
-   align-items: center;
-   padding: 0pX; */
-  
-}
+
 
 .logo-one{
     width: 1200pX;
@@ -131,7 +113,6 @@ margin-top: 10pX;
  justify-content: center;
 margin: 0 auto;
 width: 1200pX;
-border: 2pX solid yellow;
 gap: 100pX;
 }
 .last-two{
