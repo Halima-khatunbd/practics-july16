@@ -1,0 +1,139 @@
+
+/* .top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40pX;
+    border: 2pX solid red;
+    margin: 0 auto;
+} */
+
+.top-line{
+    width: 1200pX;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    font-weight: 900pX;
+}
+
+.list-item{
+    margin-right: 40pX;
+}
+.list-item-one{
+    display: flex;
+    list-style: none;
+    gap: 20pX;
+   }
+
+.link-one{
+    text-decoration: none;
+}
+.style{
+    font-size: 70pX;
+}
+.second{
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20pX;
+    margin: 0 auto;
+}
+.second-one{
+
+}
+.button-style{
+    background-color: rgb(255, 114, 138);
+    padding: 15pX;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+.img-back{
+    background-image: url(images/Circle\ design.svg);
+    margin-right: 40pX;
+    }
+.logo{
+    /* height: 100pX;
+    margin-top: 20px;
+    border: 2pX solid red;
+    display: flex;
+    justify-content: space-around;
+   align-items: center;
+   padding: 0pX; */
+  
+}
+
+.logo-one{
+    width: 1200pX;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+  .logo-style{
+
+  }
+  .group{
+    font-size: 40pX;
+    font-weight: 800;
+    text-align: center;
+    height: 20pX;
+    margin-bottom: 05pX;
+    margin-top: 50px;
+  }
+  .group-top{
+    display: grid;
+    width: 1200pX;
+    margin: 0 auto;
+    margin-bottom: 10pX;
+    align-items: center;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 40pX;
+    gap: 40pX;
+    margin-bottom: 10pX;
+    justify-content: center;
+
+  }
+  .gorup-one{
+    background-color: rgb(250, 228, 232);
+    padding: 10pX;
+    border-radius: 20pX;
+    margin: 20pX auto;
+    box-shadow: 0 25 0 12 rgb(0 0 0 0);
+  }
+
+  .img-style{
+   display: block;
+   margin: 0 auto;
+   border-radius: 10pX;
+   margin-top: 10px;
+  }
+
+.logo-item{
+    width: 1200px;
+    height: 50pX;
+    display: flex;
+    justify-content: right;
+    margin: 0 auto;
+    gap: 20pX;
+    font-weight:900pX;
+    color: red;
+ 
+}
+.logo-two{
+margin-top: 10pX;
+
+}
+
+.last{
+    display: flex;
+ justify-content: center;
+margin: 0 auto;
+width: 1200pX;
+border: 2pX solid yellow;
+gap: 100pX;
+}
+.last-two{
+    margin-top: 40pX;
+}
